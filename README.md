@@ -4,7 +4,7 @@
 ## Dataset: [https://www.kaggle.com/datasets/khushikyad001/ai-impact-on-jobs-2030](URL)
 
 ## Overview
-This exploratory analysis focuses on various jobs that can be automatized by 2030. The dataset presents a forecast using synthetic data on how much AI and the technology growth in the area impact jobs, chance jobs get automatized, as well as salary, education, experience required, and skills needed to perform the job (set at random). The objective of this project is to practice excel skills by checking which jobs are at risk of automation by 2030. Furthermore, reasons of automation will be explored. 
+This exploratory analysis focuses on various jobs that can be automatized by 2030. The dataset presents a forecast using synthetic data on how much AI and the technology growth in the field will impact jobs, chance jobs will get automatized by 2030, as well as salary, education, experience required, and skills needed to perform the job (set at random). The objective of this project is to practice excel skills by checking which jobs are at risk of automation by 2030. Furthermore, reasons of automation will be explored. 
 
 🎯 **Research questions**
 -	Q1: Are there differences on automation risk of jobs between those with more experience and education against those with less experience and education? 
