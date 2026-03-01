@@ -4,7 +4,8 @@
 ## Dataset: [https://www.kaggle.com/datasets/khushikyad001/ai-impact-on-jobs-2030](URL)
 
 ## Overview
-This exploratory analysis focuses on various jobs that can be automatized by 2030. The dataset presents a forecast using synthetic data on how much AI and the technology growth will impact jobs, chance jobs will get automatized by 2030, as well as salary, education, experience required, and skills needed to perform the job (set at random). The objective of this project is to practice excel skills by checking which jobs are at risk of automation by 2030. Furthermore, reasons of automation will be considered. 
+This exploratory analysis focuses on various jobs that can be automated by 2030. The dataset presents a forecast using synthetic data on how much AI and the technology growth will impact jobs, chance jobs will get automated by 2030, as well as salary, education, experience required, and skills needed to perform the job (set at random). 
+The objective of this project is to practice excel skills by checking which jobs are at risk of automation by 2030. Furthermore, reasons of automation will be considered. 
 
 🎯 **Research questions**
 -	Q1: Are there differences on automation risk of jobs between those with more experience and education against those with less experience and education? 
@@ -48,11 +49,11 @@ This exploratory analysis focuses on various jobs that can be automatized by 203
 
 
 ## 📈 Key findings
-- Job types that will end up automatized do not change much at varying levels of education and experience. 
-- The less educated/experienced folks the more automatized the jobs become by 2030
+- Job types that will end up automated do not change much at varying levels of education and experience. 
+- The less educated/experienced folks the more automated the jobs become by 2030
 -  Education level alone does not influence on automation risk. Low and high experience groups have slightly more automation risk than lower-mid, and upper-mid groups.
 - Automation risk does not influence independently on tech growth factor, AI exposure index, salary and overall skills.
 - There is more variability in AI exposure index with more education level. A positive trend between AI exposure and automation probability has been found for people with PhD & low experience.
-- People with high experience & high school or master's level will have lesser salary the more automatized their jobs become by 2030
+- People with high experience & high school or master's level will have lesser salary the more automated their jobs become by 2030
 - There are non-significant small changes between overall skills and automation risk across samples.
 
